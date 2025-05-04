@@ -88,6 +88,4 @@
 
 <div align="center">
   <b>Thank you for visiting my profile!</b> 👨‍💻
-  
-  ![Snake animation](https://github.com/maheshdasarwad/maheshdasarwad/blob/main/snake.yml)
 </div>
