@@ -87,7 +87,7 @@
 ---
 
 <div align="center">
-  <strong>Thanks for visiting! Let's connect and create something meaningful. 🚀</strong>
-  <br/><br/>
-  <img src="https://github.com/maheshdasarwad/maheshdasarwad/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+  <b>Thank you for visiting my profile!</b> 👨‍💻
+  
+  ![Snake animation](https://github.com/maheshdasarwad/maheshdasarwad/blob/main/snake.yml)
 </div>
