@@ -1,3 +1,4 @@
+![logo](https://github.com/maheshdasarwad/maheshdasarwad/blob/main/LinkedInBanner.png)
 <h1 align="center">Hi 👋, I'm Mahesh Dasarwad</h1>
 <h3 align="center">A passionate computer engineer from India</h3>
 
