@@ -77,24 +77,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshdasarwad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" alt="Mahesh's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshdasarwad&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="Mahesh's Github Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=maheshdasarwad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="60%" alt="GitHub Stats" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshdasarwad&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="60%" alt="Mahesh's Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshdasarwad&theme=radical" width="100%" alt="Mahesh's Github Activity Graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshdasarwad&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=6C63FF" width="100%" alt="Contribution Graph" />
 
-<div align="center">
-  
-  ![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-  
 </div>
-
 <!--
 ## 🏆 GitHub Trophies
 <div align="center">
