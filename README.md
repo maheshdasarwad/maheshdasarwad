@@ -36,7 +36,7 @@
   ![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
   
 </div>
-
+<!--
 🚀 Tech Stack
 ### 💻 Languages
 <p>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
+-->
 <div align="center">
   
   ![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
