@@ -83,12 +83,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=maheshdasarwad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="60%" alt="GitHub Stats" />
 
 </div>
--->
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshdasarwad&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=6C63FF" width="100%" alt="Contribution Graph" />
 
 </div>
+-->
+
 <!--
 ## 🏆 GitHub Trophies
 <div align="center">
